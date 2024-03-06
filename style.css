@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+}
+.big_header{
+	height: 580px;
+	background: linear-gradient( #8524A3 , #E30A7B);
+	padding-top: 200px;
+}
+.h1{
+	font-family: ROBOTO;
+	color: white;
+	font-size: 64px;
+	text-align: center;
+
+}
+.img1{
+	height: 400px;
+	width: 400px; 
+	margin-left: 40%;
+    margin-top: 20px;
+}
+.conteiner{
+	height: 2550px;
+	background: linear-gradient( #5614B0 , #DBD65C);
+	padding-top: 50px;
+}
+.conteiner_text{
+	color: white;
+	font-size: 60px;
+	font-family: ROBOTO;
+	text-align: center;
+}
+.conteiner_text1{
+	color: white;
+	font-size: 40px;
+	font-family: ROBOTO;
+	text-align: center;
+	margin-top: 50px;
+}
+.poco{
+	height: 400px;
+	width: 400px;
+	margin-left: 40%;
+}
+.conteiner_text_2{
+	color: white;
+	font-size: 40px;
+	font-family: ROBOTO;
+	text-align: center;
+	margin-top: 100px;
+}
+.marci{
+	height: 400px;
+	width: 400px;
+	margin-left: 40%;
+}
+.conteiner_text_3{
+	color: white;
+	font-size: 40px;
+	font-family: ROBOTO;
+	text-align: center;
+	margin-top: 100px;
+}
+.elprimo{
+	height: 400px;
+	width: 400px;
+	margin-left: 40%;
+}
+.div_link{
+	height: 500px;
+	background: linear-gradient( #8E0E00 , #1F1C18);
+}
+.link_text{
+	color: white;
+	font-size: 64px;
+	text-align: center;
+	font-family: ROBOTO;
+}
+.a1{
+	font-size: 64px;
+	margin-left: 35%;
+	font-family: ROBOTO;
+}
